@@ -1,5 +1,5 @@
 <p align="center">
-<img width=1000 height='300' src="https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg">
+<img width=1000 height='200' src="https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm Shantha Priya Manikandan</h1>
 <h3 align="center">A Prefinal year Student pursuing B.Tech Information Technology from College of Engineering Guindy, Anna University</h3>
