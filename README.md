@@ -1,5 +1,5 @@
 <p align="center">
-<img width=1000 src="https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg">
+<img width=1000 height='300' src="https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm Shantha Priya Manikandan</h1>
 <h3 align="center">A Prefinal year Student pursuing B.Tech Information Technology from College of Engineering Guindy, Anna University</h3>
@@ -33,7 +33,7 @@
   </a>
 </p>
 <!-- Statistics -->
-
+<br><br>
 <h2 style="color: #44AEFB"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
 
 <!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
@@ -51,19 +51,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanthapriya23&show_icons=true&theme=radical&card_width=500" />
 </div>
 <br><br>
-
 <div align="center"><img src="https://streak-stats.demolab.com?user=Shanthapriya23&theme=radical" alt="GitHub Streak" /></div>
 <br>
-
-
 </div>
-<br><br>
+<br><
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BShantha2310%7D/count.svg" alt="visitor badge"/></p>
 <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanthapriya23&show_icons=true&locale=en&layout=compact" alt="shanthapriya23" /></p>
-
 
 <h2 style="color: #44AEFB">Connect with me :</h2>
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
