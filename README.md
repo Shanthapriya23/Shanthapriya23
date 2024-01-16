@@ -54,7 +54,11 @@
 <div align="center"><img src="https://streak-stats.demolab.com?user=Shanthapriya23&theme=radical" alt="GitHub Streak" /></div>
 <br>
 </div>
-<br><
+<br>
+<h2 style="color: #44AEFB">🏆 Github Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shanthapriya23&theme=radical" alt="Shanthapriya23" /></a> </p>
+<br>
+
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BShantha2310%7D/count.svg" alt="visitor badge"/></p>
 <br>
